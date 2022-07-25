@@ -1,0 +1,23 @@
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\bin\Debug\AccountingParser.exe.config
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\bin\Debug\AccountingParser.exe
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\bin\Debug\AccountingParser.pdb
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.Form1.resources
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.popupForm.resources
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.Properties.Resources.resources
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.csproj.GenerateResource.cache
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.csproj.CoreCompileInputs.cache
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.exe
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.pdb
+C:\Users\tpratt\Documents\VSProjects\AccountingParser\obj\Debug\AccountingParser.csprojAssemblyReference.cache
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\bin\Debug\AccountingParser.exe.config
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\bin\Debug\AccountingParser.exe
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\bin\Debug\AccountingParser.pdb
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.Form1.resources
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.popupForm.resources
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.Properties.Resources.resources
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.csproj.GenerateResource.cache
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.csproj.CoreCompileInputs.cache
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.exe
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.pdb
+C:\Users\tpratt\OneDrive - Cable Dahmer Autogroup\Documents\AccountingFiles\Accounting Parser\Source\AccountingParser\AccountingParser\obj\Debug\AccountingParser.csproj.AssemblyReference.cache
